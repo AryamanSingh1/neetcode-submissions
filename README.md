@@ -19,7 +19,7 @@ sliding window and so on), not to collect green ticks.
 
 | Topic | Solved |
 |---|---|
-| Arrays & Hashing | 2 / 9 |
+| Arrays & Hashing | 4 / 9 |
 | Two Pointers | 0 / 5 |
 | Sliding Window | 0 / 6 |
 | Stack | 0 / 7 |
